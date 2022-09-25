@@ -1,7 +1,8 @@
+
 backend/dist
 backend/coverage
 backend/node_modules
-backend/.env
+.env
 
 frontend/build
 frontend/node_modules
