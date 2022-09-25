@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fmahay/grainchain-challenge/issues"
   },
+  "engines": {
+    "node": "16.13.1"
+  },
   "homepage": "https://github.com/fmahay/grainchain-challenge#readme"
 }
