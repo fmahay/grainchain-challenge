@@ -5,7 +5,8 @@
   "scripts": {
     "postinstall": "(cd backend && npm install) & (cd frontend && npm install)",
     "build": "(cd backend && npm run postinstall) & (cd frontend && npm run build)",
-    "start": "(cd backend && npm run start)"
+    "start": "(cd backend && npm run start)",
+    "heroku-postbuild": "npm run postinstall"
   },
   "repository": {
     "type": "git",
