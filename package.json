@@ -1,0 +1,19 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "Grainchain Challenge project",
+  "scripts": {
+    "build": "(cd backend && npm run postinstall) & (cd frontend && npm run build)",
+    "start": "(cd backend && npm run start)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmahay/grainchain-challenge.git"
+  },
+  "author": "Francisco Mahay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmahay/grainchain-challenge/issues"
+  },
+  "homepage": "https://github.com/fmahay/grainchain-challenge#readme"
+}
