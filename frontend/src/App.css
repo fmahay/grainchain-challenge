@@ -1,0 +1,46 @@
+body {
+  background-color: #3da935;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.message-container {
+  text-align: center;
+}
+
+.message {
+  font-weight: bold;
+  font-size: large;
+}
+
+.error-message {
+  background-color: #d82c2c;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.clear-button {
+  color: #343a40;
+  background: #ffcc00;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin: 10px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.file-button {
+  color: #343a40;
+  background: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin: 10px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+}

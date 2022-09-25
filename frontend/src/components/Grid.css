@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0.25em 1em;
+  border: 5px !important;
+  table-layout: fixed;
+}
+
+.light {
+  background-color: #ffff80;
+  color: #343a40;
+}
+
+.wall {
+  background-color: #343a40;
+}
